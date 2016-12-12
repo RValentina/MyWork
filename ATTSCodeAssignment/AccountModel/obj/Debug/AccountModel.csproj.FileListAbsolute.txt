@@ -1,0 +1,5 @@
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountModel\bin\Debug\AccountModel.dll
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountModel\bin\Debug\AccountModel.pdb
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountModel\obj\Debug\AccountModel.csprojResolveAssemblyReference.cache
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountModel\obj\Debug\AccountModel.dll
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountModel\obj\Debug\AccountModel.pdb

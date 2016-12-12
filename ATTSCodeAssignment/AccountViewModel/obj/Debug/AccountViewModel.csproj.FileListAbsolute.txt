@@ -1,0 +1,9 @@
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountViewModel\obj\Debug\AccountViewModel.csprojResolveAssemblyReference.cache
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountViewModel\bin\Debug\AccountViewModel.dll
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountViewModel\bin\Debug\AccountViewModel.pdb
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountViewModel\bin\Debug\AccountModel.dll
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountViewModel\bin\Debug\AccountModel.pdb
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountViewModel\obj\Debug\AccountViewModel.dll
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountViewModel\obj\Debug\AccountViewModel.pdb
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountViewModel\bin\Debug\AccountDataLayer.dll
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountViewModel\bin\Debug\AccountDataLayer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountDataLayer\bin\Debug\AccountDataLayer.dll
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountDataLayer\bin\Debug\AccountDataLayer.pdb
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountDataLayer\bin\Debug\AccountModel.dll
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountDataLayer\bin\Debug\AccountModel.pdb
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountDataLayer\obj\Debug\AccountDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountDataLayer\obj\Debug\AccountDataLayer.dll
+C:\Users\Valentina\Documents\Visual Studio 2012\Projects\ATTSCodeAssignment\AccountDataLayer\obj\Debug\AccountDataLayer.pdb
